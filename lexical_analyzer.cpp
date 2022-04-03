@@ -1,8 +1,7 @@
 /*
     Author: Sabbir Hossain
     Problem_Name: Design a lexical analyzer for given language and the lexical analyzer should ignore
-                redundant spaces, tabs and new lines. It should also ignore comments. Although the
-                syntax specification states that identifiers can be arbitrarily long, you may restrict the length to some reasonable value. Simulate the same in C language
+    redundant spaces, tabs and new lines. It should also ignore comments. Although the syntax specification states that identifiers can be arbitrarily long, you may restrict the length to some reasonable value. Simulate the same in C language
 */
 
 #include <bits/stdc++.h>

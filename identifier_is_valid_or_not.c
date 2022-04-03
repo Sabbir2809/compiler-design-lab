@@ -3,7 +3,6 @@
     Problem_Name: Write a C program to test whether a given identifier is valid or not.
 */
 #include<stdio.h>
-#include<conio.h>
 #include<ctype.h>
 
 int main() {
